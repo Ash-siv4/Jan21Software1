@@ -1,0 +1,8 @@
+20210128 15:13:54 INFO  [main] intermediate.Runner Runner.java24 - Please enter the current temperature: 
+20210128 15:14:00 INFO  [main] intermediate.Runner Runner.java31 - Increased temperature by:7
+20210128 15:14:00 INFO  [main] intermediate.Runner Runner.java34 - New temperature is:30
+20210128 15:14:00 INFO  [main] intermediate.Runner Runner.java38 - Original temp was: 23
+20210128 15:14:00 INFO  [main] intermediate.Runner Runner.java65 - info
+20210128 15:14:00 ERROR [main] intermediate.Runner Runner.java66 - ERROR
+20210128 15:14:00 FATAL [main] intermediate.Runner Runner.java67 - fatal
+20210128 15:14:00 DEBUG [main] intermediate.Runner Runner.java68 - debug
